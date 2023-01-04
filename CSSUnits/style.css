@@ -1,0 +1,14 @@
+article{
+    font-size: 100px;
+}
+ul{
+    font-size: 50%;
+}
+section:nth-of-type(1){
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+ section:nth-last-of-type(2){
+    
+ }
